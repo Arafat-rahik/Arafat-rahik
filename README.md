@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔹 Passionate about transforming raw data into actionable insights and building scalable data solutions
 🔹 Exploring AI, machine learning, and deep learning applications
 
-📌 What I Do:
+## 📌 What I Do:
 Data analysis & visualization
 ETL & data pipeline development
 Machine learning & predictive modeling
