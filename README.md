@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Deep learning & AI experiments
 - Business intelligence reporting
 ## 🚀 Tech Stack:
-🗄 Databases: SQL, Oracle, PostgreSQL, MongoDB
+#### 🗄 Databases: SQL, Oracle, PostgreSQL, MongoDB
 #### 📊 Analytics & BI: Power BI, Tableau, Looker
 #### ⚙️ ETL & Big Data: Apache Spark, Airflow
 #### 📌 Languages: Python, SQL, DAX
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect with Me:
 #### 📧 Email: rahik.hub@gmail.com
-#### 💼 LinkedIn: https://www.linkedin.com/in/yeasir-arafat-b0708b140?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+#### 💼 LinkedIn: https://www.linkedin.com/in/yeasir-arafat-b0708b140/
 #### 🌐 Portfolio: https://github.com/Arafat-rahik
